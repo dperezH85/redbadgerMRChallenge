@@ -10,6 +10,8 @@ Given the solution should be easy to scale, expand and support I decided to use 
 Conclusion
 Managed to produce an executable solution with the resolution of the core/main problem 
 Ideally the next steps would be:
+* File based solution, all instructions will need to be added in a single file to be executed sequentially
+* there are no dependencies a part of the "node_modules" after installing npm
 * Addition of UI to handle the request dynamically and also have a visual understanding of the intructions and robot movements. 
 * Incorporate some modularization and abstraction to expand each robot request in an asynchronous approach rather than sequential. 
 
