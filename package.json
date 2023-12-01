@@ -1,0 +1,16 @@
+{
+  "name": "martianrobots",
+  "version": "1.0.0",
+  "description": "Martian Robots",
+  "type": "module",
+  "main": "src/main.js",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
